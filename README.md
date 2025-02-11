@@ -1,4 +1,6 @@
 # Power BI Assignment: Advanced Measures and Visualizations
+![Power BI Desktop 11_02_2025 11_48_17 AM](https://github.com/user-attachments/assets/abb96d96-9e73-4b19-84b4-4afad9cd002e)
+
 
 ## **Project Overview**
 This project involves analyzing sales data using **Power BI** to create advanced **DAX measures** and visualizations. The goal is to gain meaningful insights into sales trends, growth, and regional performance.
@@ -57,19 +59,16 @@ This project involves analyzing sales data using **Power BI** to create advanced
 
 ## **Visualizations**
 ### **1. Bar Chart - Total Sales by Region**
-This visualization presents total sales figures for each region, identifying the highest and lowest performing areas.
-
-![Total Sales by Region](path_to_image1.png)
+This visualization presents total sales figures for each region, identifying the highest and lowest performing areas
 
 ### **2. Line Chart - Sales Growth Percentage Over Time**
 This chart helps in tracking yearly sales growth trends, highlighting periods of increase or decline.
 
-![Sales Growth Percentage](path_to_image2.png)
 
 ### **3. Line & Clustered Column Chart - 3-Month Moving Average with Total Sales**
 Combines total sales (columns) with a smoothed trend line to show sales stability over time.
 
-![3-Month Moving Average](path_to_image3.png)
+
 
 ## **Conclusion**
 This Power BI project successfully analyzed sales trends, created advanced DAX measures, and visualized insights. The **regional sales breakdown** and **sales growth trends** provide valuable business intelligence for decision-making. 🚀
